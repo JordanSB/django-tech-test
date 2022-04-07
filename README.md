@@ -15,7 +15,3 @@ Build a Django app for borrowers to register and request a loan. You will need t
 
 You are encouraged to use 3rd party libraries and the built-in framework tools when it makes sense (for example "django-registration-redux" or "django-allauth" to help handle registering a new user)
 While the final product should have an interface via a web browser, there is no need for styles or anything beyond functional HTML
-
-#### Delivery
-
-Fork this repository, make your additions, and then submit a pull request with your submission. If you haven't previously, please contact us with your CV at jobs@growthstreet.co.uk as well.
